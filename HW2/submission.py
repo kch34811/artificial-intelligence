@@ -20,7 +20,7 @@ def problem_1a():
         so, interesting, great, plot, bored, not
     """
     # BEGIN_YOUR_ANSWER
-    return {'so': 1, 'interesting': 1, 'great': 1, 'plot': 0, 'bored': -1, 'not': -1}
+    return {'so': -1, 'interesting': 0, 'great': 1, 'plot': 0, 'bored': 0, 'not': -1}
     # END_YOUR_ANSWER
 
 ############################################################
