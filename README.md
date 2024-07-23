@@ -9,7 +9,7 @@
 
 # HW
 ### HW 1 
-- [Foundations]([https://github.com/kch34811/object-oriented-programming/tree/main/Assign1/Problem1](https://github.com/kch34811/artificial-intelligence/tree/main/HW1))
+- [Foundations](https://github.com/kch34811/object-oriented-programming/tree/main/Assign1/Problem1](https://github.com/kch34811/artificial-intelligence/tree/main/HW1)
 ### HW 2
 - [Sentiment Analysis]([https://github.com/kch34811/object-oriented-programming/tree/main/Assign2/Problem1](https://github.com/kch34811/artificial-intelligence/tree/main/HW2))
 ### HW 3
